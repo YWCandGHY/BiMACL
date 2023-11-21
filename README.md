@@ -17,4 +17,4 @@ The structure of the motion feature in TDSAM is represented as (videos_num, fram
 ## Visualizetion Results on UCF101
 We present the visualization results for the self-attention matrix and cross-attention matrix pertaining to the Diving and Horse Riding categories, respectively. The self-attention matrix demonstrates TDSAM's capability to focus on essential object information within each frame through motion features. Similarly, the cross-attention matrix illustrates that the motion features within TDSAM can establish connections between the key object information of adjacent frames. This visualization serves as additional confirmation of the efficacy of our module, aligning with our underlying motivation: TDSAM effectively models spatio-temporal information, allowing for simultaneous consideration of the correspondence between key objects in neighboring frames.
 
-<image src="https://github.com/YWCandGHY/BiMACL/assets/54340358/5eb8267b-3867-436a-a0db-c178258f3d96" width='30%'>
+<image src="https://github.com/YWCandGHY/BiMACL/assets/54340358/5eb8267b-3867-436a-a0db-c178258f3d96" width='60%'>
