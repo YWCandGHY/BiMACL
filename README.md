@@ -21,7 +21,8 @@ We present the visualization results for the self-attention matrix and cross-att
 
 ## Visualizetion Results on SSv2
 We present the visualization results of the self-attention matrix and cross-attention matrix for the categories of Attaching and Pouring, respectively.
-<image src="https://github.com/YWCandGHY/BiMACL/assets/54340358/c78b85a9-71e0-46ab-8092-1436de0c65f0" width='45%'>
+
+<image src="https://github.com/YWCandGHY/BiMACL/assets/54340358/c78b85a9-71e0-46ab-8092-1436de0c65f0" width='40%'>
 
 
 
