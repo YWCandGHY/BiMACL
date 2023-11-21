@@ -28,5 +28,6 @@ We present the visualization results of the self-attention matrix and cross-atte
 We further demonstrate through experiments that the ability to correlate key objects extends beyond two neighboring frames. Additionally, motion features between multiple frames can exhibit correlation with each other's key objects. The visualization results are presented below:
 
 <image src="https://github.com/YWCandGHY/BiMACL/assets/54340358/07fcba26-5eb7-4d6b-a68b-dddccbfdd3b7" width='45%'>
+  
 We trust that the visualization outcomes contribute to advancing the functionality of the TDSAM module. Moreover, our forthcoming research endeavors will delve deeper into exploring the connection between motion features in support and query objects within the same task. The ensuing visualization results are outlined below:
 
