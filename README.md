@@ -1,7 +1,7 @@
 # BiMACL: BI-DIRECTIONAL MOTION ATTENTION WITH CONTRASTIVE LEARNING FOR FEW-SHOT ACTION RECOGNITION
 
 This repository contains the official implementation of the following paper:
-> **M2ACL: Multi-Level Motion Attention with Contrastive Learning for Few-shot Action Recognition**<br>
+> **BiMACL: BI-DIRECTIONAL MOTION ATTENTION WITH CONTRASTIVE LEARNING FOR FEW-SHOT ACTION RECOGNITION**<br>
 > Xiamen University <br>
 > In ICASSP 2024<br>
 
